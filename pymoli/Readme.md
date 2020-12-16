@@ -1,4 +1,4 @@
-Heroes of Pymoli Readme
+*****Heroes of Pymoli Readme*****
 
 Heroes of Pymoli is a challenge to use the Pandas liberary of Python and Jupyter Notebooks to run analytics on sales data and generate a business intellegence report on 
 a fictional game called "Heroes of Pymoli". 
